@@ -2,7 +2,7 @@ const clicked = true;
 
 function homeButton() {
     if(clicked) {
-        location.href = "http://127.0.0.1:5500/Document/index.html";
+        location.href = "https://inferno-god1001.github.io/lore-book/Document/index.html";
     }
 }
 
